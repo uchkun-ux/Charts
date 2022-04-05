@@ -1,0 +1,2 @@
+# Charts
+Django charts
