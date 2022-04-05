@@ -1,2 +1,2 @@
 # Charts
-Django charts
+Fayllar master branchda yozilib qolibdi uzr
