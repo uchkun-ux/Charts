@@ -1,2 +1,2 @@
 # Charts
-Fayllar master branchda yozilib qolibdi uzr
+This project made with SUSYS for learn Django
